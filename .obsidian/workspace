@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "16d55836ff1561e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "69d0966113451fc4",
+        "type": "leaf",
+        "dimension": 77.77777777777779,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "待整理/Jenkins.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "2b955537d8a3d4b9"
+      },
+      {
+        "id": "8ae9290587da0ff9",
+        "type": "leaf",
+        "dimension": 22.22222222222222,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "待整理/Jenkins.md"
+          }
+        },
+        "group": "2b955537d8a3d4b9"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be744be294c49a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e39b1093df8cf231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adad2e8937a9a2df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e505a2ca74b2d718",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de25a9e50104280b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "28209631f57b7c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3858bd5195418e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254f156bb370dcdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "待整理/Jenkins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8df03dcc390700a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "待整理/Jenkins.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45d1d926c6ac1f52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3dc3784ea3c0161",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "待整理/Jenkins.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "69d0966113451fc4",
+  "lastOpenFiles": [
+    "待整理/Jenkins.md",
+    "Vue/assets/Recording 20220219183747.webm",
+    "待整理/assets/Pasted image 20220219213011.png",
+    "待整理.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/JS注释/JS注释.md",
+    "JavaScript/JS注释/JSDoc.md",
+    "JavaScript/JS注释/assets/Pasted image 20220219211448.png",
+    "JavaScript/JS注释/assets/Pasted image 20220219211537.png",
+    "JavaScript/未命名.md"
+  ]
+}
