@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "69d0966113451fc4",
+        "id": "86bffc4af95987fe",
         "type": "leaf",
-        "dimension": 77.77777777777779,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "待整理/Jenkins.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "2b955537d8a3d4b9"
-      },
-      {
-        "id": "8ae9290587da0ff9",
-        "type": "leaf",
-        "dimension": 22.22222222222222,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "待整理/Jenkins.md"
-          }
-        },
-        "group": "2b955537d8a3d4b9"
+        }
       }
     ],
     "direction": "vertical"
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待整理/Jenkins.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待整理/Jenkins.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待整理/Jenkins.md"
+                "file": "README.md"
               }
             }
           }
@@ -142,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69d0966113451fc4",
+  "active": "86bffc4af95987fe",
   "lastOpenFiles": [
+    "README.md",
+    "待整理/assets/Pasted image 20220219213011.png",
     "待整理/Jenkins.md",
     "Vue/assets/Recording 20220219183747.webm",
-    "待整理/assets/Pasted image 20220219213011.png",
     "待整理.md",
     "JavaScript/JavaScript.md",
     "JavaScript/JS注释/JS注释.md",
     "JavaScript/JS注释/JSDoc.md",
     "JavaScript/JS注释/assets/Pasted image 20220219211448.png",
-    "JavaScript/JS注释/assets/Pasted image 20220219211537.png",
-    "JavaScript/未命名.md"
+    "JavaScript/JS注释/assets/Pasted image 20220219211537.png"
   ]
 }
