@@ -7,5 +7,6 @@
   "useMarkdownLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "./assets",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true
 }
