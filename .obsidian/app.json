@@ -3,10 +3,11 @@
   "livePreview": true,
   "readableLineLength": false,
   "showFrontmatter": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "useMarkdownLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "./assets",
   "newLinkFormat": "relative",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true
 }
