@@ -6,28 +6,26 @@
       {
         "id": "86bffc4af95987fe",
         "type": "leaf",
-        "dimension": 71.49817295980512,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/Vue2迁移到Vue3.md",
+            "file": "obsidian操作技巧.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "b5b1def507ca39ab",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian操作技巧.md",
             "mode": "preview",
             "source": false
           }
-        },
-        "group": "6936f8bec5a0e697"
-      },
-      {
-        "id": "c90a0207fa93d77d",
-        "type": "leaf",
-        "dimension": 28.501827040194883,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Vue/Vue2迁移到Vue3.md"
-          }
-        },
-        "group": "6936f8bec5a0e697"
+        }
       }
     ],
     "direction": "vertical"
@@ -54,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#标签",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Vue2迁移到Vue3.md",
+                "file": "obsidian操作技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Vue2迁移到Vue3.md",
+                "file": "obsidian操作技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,28 +129,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Vue2迁移到Vue3.md"
+                "file": "obsidian操作技巧.md"
               }
             }
+          },
+          {
+            "id": "d798d3f1aaf8e4af",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a129e2380bb5ac4d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c90a0207fa93d77d",
+  "active": "86bffc4af95987fe",
   "lastOpenFiles": [
-    "Vue/Vue2迁移到Vue3.md",
-    "Vue/深度作用选择器.md",
-    "Vue/Vue3/Vue3.md",
-    "JavaScript/canvas/canvas.md",
-    "JavaScript/canvas/canvas.html.md",
-    "JavaScript/JavaScript.md",
-    "Vue/Vue2/Vue2组件通信.md",
-    "工作经验/Electron/退出功能.md",
+    "obsidian操作技巧.md",
+    "git/git 操作技巧.md",
     "README.md",
-    "待整理/assets/Pasted image 20220219213011.png"
+    "技巧/动态虚拟图像生成器.md",
+    "JavaScript/canvas/canvas.md",
+    "待整理/Jenkins.md",
+    "JavaScript/JavaScript.md",
+    "Vue/Vue3/Vue3.md",
+    "Vue/深度作用选择器.md",
+    "工作经验/人脸识别/人脸识别.md"
   ]
 }
