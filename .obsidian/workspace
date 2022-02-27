@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "工作经验/Electron/退出功能.md",
+            "file": "待整理/样式.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作经验/Electron/退出功能.md",
+                "file": "待整理/样式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作经验/Electron/退出功能.md",
+                "file": "待整理/样式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作经验/Electron/退出功能.md"
+                "file": "待整理/样式.md"
               }
             }
           }
@@ -130,14 +130,15 @@
   },
   "active": "86bffc4af95987fe",
   "lastOpenFiles": [
+    "待整理/样式.md",
+    "JavaScript/JS注释/JSDoc.md",
+    "工作经验/Electron/netLog.md",
     "工作经验/Electron/退出功能.md",
-    "README.md",
-    "待整理/assets/Pasted image 20220219213011.png",
-    "Vue/assets/Recording 20220219183747.webm",
-    "待整理.md",
+    "JavaScript/JS语句和声明.md",
     "JavaScript/JavaScript.md",
     "JavaScript/JS注释/JS注释.md",
-    "JavaScript/JS注释/JSDoc.md",
-    "JavaScript/JS注释/assets/Pasted image 20220219211448.png"
+    "README.md",
+    "待整理/assets/Pasted image 20220219213011.png",
+    "Vue/assets/Recording 20220219183747.webm"
   ]
 }
