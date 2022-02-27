@@ -1,49 +1,29 @@
 {
   "main": {
-    "id": "16d55836ff1561e9",
+    "id": "be2273ed1855c9c9",
     "type": "split",
     "children": [
       {
-        "id": "86bffc4af95987fe",
+        "id": "d47a41dcfe225f64",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-<<<<<<< HEAD
-            "file": "待整理/样式.md",
-=======
-            "file": "obsidian操作技巧.md",
->>>>>>> 73197ce989c242465ae46aa48e3daf1a6a70105c
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "b5b1def507ca39ab",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "obsidian操作技巧.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "be744be294c49a4b",
+    "id": "77b04fd1d713373d",
     "type": "split",
     "children": [
       {
-        "id": "e39b1093df8cf231",
+        "id": "e704c80a8107dd38",
         "type": "tabs",
         "children": [
           {
-            "id": "adad2e8937a9a2df",
+            "id": "f57e0a601ed1e85f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,12 +31,12 @@
             }
           },
           {
-            "id": "e505a2ca74b2d718",
+            "id": "f0f4d59f962d0442",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#标签",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +46,7 @@
             }
           },
           {
-            "id": "de25a9e50104280b",
+            "id": "620c9206c80b055e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -77,27 +57,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 300
   },
   "right": {
-    "id": "28209631f57b7c5e",
+    "id": "3c338da813b4877e",
     "type": "split",
     "children": [
       {
-        "id": "3858bd5195418e33",
+        "id": "928509a37c6e29dc",
         "type": "tabs",
         "children": [
           {
-            "id": "254f156bb370dcdd",
+            "id": "61c59cade310122e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "待整理/样式.md",
-=======
-                "file": "obsidian操作技巧.md",
->>>>>>> 73197ce989c242465ae46aa48e3daf1a6a70105c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,23 +84,18 @@
             }
           },
           {
-            "id": "8df03dcc390700a9",
+            "id": "d55b68cf59a5da39",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "待整理/样式.md",
-=======
-                "file": "obsidian操作技巧.md",
->>>>>>> 73197ce989c242465ae46aa48e3daf1a6a70105c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "45d1d926c6ac1f52",
+            "id": "02c56bfffca122f3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,66 +106,28 @@
             }
           },
           {
-            "id": "c3dc3784ea3c0161",
+            "id": "62b64509bf789544",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "待整理/样式.md"
-=======
-                "file": "obsidian操作技巧.md"
->>>>>>> 73197ce989c242465ae46aa48e3daf1a6a70105c
-              }
-            }
-          },
-          {
-            "id": "d798d3f1aaf8e4af",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "a129e2380bb5ac4d",
+            "id": "92069fe7d37f3ba1",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "86bffc4af95987fe",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "待整理/样式.md",
-    "JavaScript/JS注释/JSDoc.md",
-    "工作经验/Electron/netLog.md",
-    "工作经验/Electron/退出功能.md",
-    "JavaScript/JS语句和声明.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/JS注释/JS注释.md",
-    "README.md",
-    "待整理/assets/Pasted image 20220219213011.png",
-    "Vue/assets/Recording 20220219183747.webm"
-=======
-    "obsidian操作技巧.md",
-    "git/git 操作技巧.md",
-    "README.md",
-    "技巧/动态虚拟图像生成器.md",
-    "JavaScript/canvas/canvas.md",
-    "待整理/Jenkins.md",
-    "JavaScript/JavaScript.md",
-    "Vue/Vue3/Vue3.md",
-    "Vue/深度作用选择器.md",
-    "工作经验/人脸识别/人脸识别.md"
->>>>>>> 73197ce989c242465ae46aa48e3daf1a6a70105c
-  ]
+  "active": "d47a41dcfe225f64",
+  "lastOpenFiles": []
 }
