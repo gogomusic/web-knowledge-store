@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技巧/动态虚拟图像生成器.md",
+            "file": "JavaScript/canvas/canvas.md",
             "mode": "preview",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧/动态虚拟图像生成器.md",
+                "file": "JavaScript/canvas/canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧/动态虚拟图像生成器.md",
+                "file": "JavaScript/canvas/canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技巧/动态虚拟图像生成器.md"
+                "file": "JavaScript/canvas/canvas.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "d47a41dcfe225f64",
   "lastOpenFiles": [
+    "JavaScript/canvas/canvas.md",
     "技巧/动态虚拟图像生成器.md",
     "obsidian操作技巧.md",
     "工作经验/Electron/netLog.md"
