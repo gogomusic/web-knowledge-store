@@ -10,18 +10,6 @@
           "type": "graph",
           "state": {}
         }
-      },
-      {
-        "id": "e02c9fa9c8882c1f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -150,8 +138,8 @@
   },
   "active": "86bffc4af95987fe",
   "lastOpenFiles": [
-    "JavaScript/canvas/canvas.md",
     "conflict-files-obsidian-git.md",
+    "JavaScript/canvas/canvas.md",
     "技巧/dummyimage.md",
     "obsidian操作技巧.md",
     "git/git 操作技巧.md",
