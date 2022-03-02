@@ -7,9 +7,17 @@
         "id": "86bffc4af95987fe",
         "type": "leaf",
         "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "e02c9fa9c8882c1f",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/canvas/canvas.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/canvas/canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/canvas/canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript/canvas/canvas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,12 +146,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "86bffc4af95987fe",
   "lastOpenFiles": [
     "JavaScript/canvas/canvas.md",
+    "conflict-files-obsidian-git.md",
     "技巧/dummyimage.md",
     "obsidian操作技巧.md",
     "git/git 操作技巧.md",
@@ -155,7 +159,6 @@
     "待整理/Jenkins.md",
     "JavaScript/JavaScript.md",
     "Vue/Vue3/Vue3.md",
-    "Vue/深度作用选择器.md",
-    "工作经验/人脸识别/人脸识别.md"
+    "Vue/深度作用选择器.md"
   ]
 }

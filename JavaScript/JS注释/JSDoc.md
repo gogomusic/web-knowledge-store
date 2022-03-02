@@ -334,3 +334,7 @@ function UserRecord() {}
  */
 var FOO = 1;
 ```
+
+### @brief
+
+**作用**：简单描述函数的功能
