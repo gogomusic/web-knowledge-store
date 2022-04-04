@@ -55,7 +55,7 @@ This is in the original admonition.
  [Checklist](https://link.zhihu.com/?target=https%3A//github.com/delashum/obsidian-checklist-plugin)
 
 在todo标签下面，使用多选框，就可以在右侧菜单中显示待办事项
- 
+
 ```
 #todo
 - [x] 1
