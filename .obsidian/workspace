@@ -9,20 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian操作技巧.md",
+            "file": "JavaScript/canvas/canvas.md",
             "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "b5b1def507ca39ab",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "obsidian操作技巧.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -89,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian操作技巧.md",
+                "file": "JavaScript/canvas/canvas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian操作技巧.md",
+                "file": "JavaScript/canvas/canvas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian操作技巧.md"
+                "file": "JavaScript/canvas/canvas.md"
               }
             }
           },
@@ -158,15 +146,15 @@
   },
   "active": "86bffc4af95987fe",
   "lastOpenFiles": [
+    "JavaScript/canvas/canvas.md",
+    "conflict-files-obsidian-git.md",
+    "技巧/dummyimage.md",
     "obsidian操作技巧.md",
     "git/git 操作技巧.md",
     "README.md",
-    "技巧/动态虚拟图像生成器.md",
-    "JavaScript/canvas/canvas.md",
     "待整理/Jenkins.md",
     "JavaScript/JavaScript.md",
     "Vue/Vue3/Vue3.md",
-    "Vue/深度作用选择器.md",
-    "工作经验/人脸识别/人脸识别.md"
+    "Vue/深度作用选择器.md"
   ]
 }
