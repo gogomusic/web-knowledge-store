@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "86bffc4af95987fe",
+        "id": "0ebb965311b5a4b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "待整理/样式.md",
-            "mode": "source",
+            "file": "待整理/Jenkins.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 217
   },
   "right": {
     "id": "28209631f57b7c5e",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待整理/样式.md",
+                "file": "待整理/Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待整理/样式.md",
+                "file": "待整理/Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待整理/样式.md"
+                "file": "待整理/Jenkins.md"
               }
             }
           },
@@ -138,23 +138,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "86bffc4af95987fe",
+  "active": "0ebb965311b5a4b5",
   "lastOpenFiles": [
-    "待整理/样式.md",
-    "工作经验/Electron/netLog.md",
     "待整理/Jenkins.md",
-    "Vue/深度作用选择器.md",
-    "JavaScript/JS语句和声明.md",
+    "待整理/样式.md",
+    "待整理/assets/Pasted image 20220219213011.png",
+    "一级标题.md",
     "JavaScript/JavaScript.md",
-    "obsidian操作技巧.md",
-    "conflict-files-obsidian-git.md",
-    "JavaScript/canvas/canvas.md",
-    "技巧/dummyimage.md"
+    "JavaScript/JS语句和声明.md",
+    "Vue/Vue2/Vue2组件通信.md",
+    "JavaScript/JS注释/JSDoc.md",
+    "Vue/Vue2迁移到Vue3.md",
+    "obsidian操作技巧.md"
   ]
 }

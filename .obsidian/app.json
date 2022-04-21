@@ -9,5 +9,7 @@
   "attachmentFolderPath": "./assets",
   "newLinkFormat": "relative",
   "strictLineBreaks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "communityThemeSortOrder": "download",
+  "defaultViewMode": "preview"
 }
