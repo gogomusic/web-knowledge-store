@@ -142,13 +142,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "0ebb965311b5a4b5",
   "lastOpenFiles": [
     "待整理/Jenkins.md",
-    "待整理/样式.md",
     "待整理/assets/Pasted image 20220219213011.png",
+    "待整理/样式.md",
     "一级标题.md",
     "JavaScript/JavaScript.md",
     "JavaScript/JS语句和声明.md",
