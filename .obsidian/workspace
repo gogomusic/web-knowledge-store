@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "禅道",
+                "query": "渐变",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
