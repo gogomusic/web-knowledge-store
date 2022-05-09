@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c01b7fa70519e582",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "图片自适应容器.md",
-            "mode": "source",
-            "source": false
+        "id": "58c1ca1a6d325ce9",
+        "type": "split",
+        "children": [
+          {
+            "id": "c01b7fa70519e582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图片自适应容器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cca3459c53289775",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图片自适应容器.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -137,12 +156,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c01b7fa70519e582",
   "lastOpenFiles": [
