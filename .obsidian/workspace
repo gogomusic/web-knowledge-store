@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "待整理/样式.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待整理/样式.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待整理/样式.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待整理/样式.md"
+                "file": "README.md"
               }
             }
           },
@@ -126,14 +126,6 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a129e2380bb5ac4d",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
               "state": {}
             }
           }
@@ -146,15 +138,15 @@
   },
   "active": "7e5fdc792665eb22",
   "lastOpenFiles": [
-    "待整理/样式.md",
+    "README.md",
     "待整理/关键词高亮.md",
+    "待整理/样式.md",
     "技巧/快速找到哪个元素产生的滚动.md",
     "待整理/图片自适应容器.md",
     "待整理/Jenkins.md",
     "自动打包上传.md",
     "技巧/dummyimage.md",
     "待整理/assets/Pasted image 20220219213011.png",
-    "一级标题.md",
-    "JavaScript/JavaScript.md"
+    "一级标题.md"
   ]
 }

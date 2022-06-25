@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "16d55836ff1561e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "86bffc4af95987fe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/canvas/canvas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be744be294c49a4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e39b1093df8cf231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adad2e8937a9a2df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e505a2ca74b2d718",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#标签",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de25a9e50104280b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218
+  },
+  "right": {
+    "id": "28209631f57b7c5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3858bd5195418e33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254f156bb370dcdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaScript/canvas/canvas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8df03dcc390700a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaScript/canvas/canvas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45d1d926c6ac1f52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c3dc3784ea3c0161",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JavaScript/canvas/canvas.md"
+              }
+            }
+          },
+          {
+            "id": "d798d3f1aaf8e4af",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a129e2380bb5ac4d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "86bffc4af95987fe",
+  "lastOpenFiles": [
+    "JavaScript/canvas/canvas.md",
+    "conflict-files-obsidian-git.md",
+    "技巧/dummyimage.md",
+    "obsidian操作技巧.md",
+    "git/git 操作技巧.md",
+    "README.md",
+    "待整理/Jenkins.md",
+    "JavaScript/JavaScript.md",
+    "Vue/Vue3/Vue3.md",
+    "Vue/深度作用选择器.md"
+  ]
+}
