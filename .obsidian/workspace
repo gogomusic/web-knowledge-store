@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "环境变量文件 .env.md",
+            "file": "环境变量和模式(.env).md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "环境变量文件 .env.md",
+                "file": "环境变量和模式(.env).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "环境变量文件 .env.md",
+                "file": "环境变量和模式(.env).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "环境变量文件 .env.md"
+                "file": "环境变量和模式(.env).md"
               }
             }
           },
@@ -138,7 +138,7 @@
   },
   "active": "7e5fdc792665eb22",
   "lastOpenFiles": [
-    "环境变量文件 .env.md",
+    "环境变量和模式(.env).md",
     "常用npm包.md",
     "README.md",
     "待整理/关键词高亮.md",
