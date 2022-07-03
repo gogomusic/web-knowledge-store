@@ -139,14 +139,14 @@
   "active": "d340c3a7375933fc",
   "lastOpenFiles": [
     "待整理/常用样式.md",
+    "Vue/Vue2/Vue2组件通信.md",
+    "README.md",
+    "obsidian操作技巧.md",
+    "待整理/关键词高亮.md",
     "待整理/样式.md",
     "待整理/图片自适应容器.md",
     "待整理/前端语音合成播放简单示例（Web Speech API）.md",
-    "待整理/关键词高亮.md",
     "JavaScript/JavaScript.md",
-    "JavaScript/JS语句和声明.md",
-    "Vue/Vue2/Vue2组件通信.md",
-    "Vue/深度作用选择器.md",
-    "Vue/Vue2迁移到Vue3.md"
+    "JavaScript/JS语句和声明.md"
   ]
 }

@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "ada282b201b55b3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7beaa957e17b550",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "待整理/样式.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "17dfd986deda54a9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3b6d3c1503f43996",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "dd9a7f9a13952c00",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4c3ba97353f47ba4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4b332d303b54c7be",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8be9c5b36bfb40e1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73d6d4862cafb7df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "待整理/样式.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "14817ec26fe495d1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "待整理/样式.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "649ae8bf7b99b8f0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "待整理/样式.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "f7beaa957e17b550",
+  "lastOpenFiles": [
+    "待整理/样式.md",
+    "obsidian操作技巧.md",
+    "Excalidraw/assets/Pasted Image 20220611204616_205.jpg",
+    "Excalidraw/Drawing 2022-06-11 20.44.48.excalidraw.md",
+    "Excalidraw/Drawing 2022-06-11 20.44.48.excalidraw.png",
+    "Excalidraw/Drawing 2022-06-11 20.44.48.excalidraw 1.png",
+    "JavaScript/JavaScript.md",
+    "待整理/Jenkins.md",
+    "JavaScript/JS注释/JS注释.md",
+    "技巧/dummyimage.md"
+  ]
+}

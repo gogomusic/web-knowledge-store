@@ -1,0 +1,14 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "newFileLocation": "root",
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "relative",
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
+}
