@@ -43,23 +43,23 @@
 + 默认主轴方向就是 x 轴方向，水平向右
 + 默认侧轴方向就是 y 轴方向，水平向下
 
-![](images/1.JPG)
+![](assets/1.JPG)
 
 + 注意： 主轴和侧轴是会变化的，就看 flex-direction 设置谁为主轴，剩下的就是侧轴。而我们的子元素是跟着主轴来排列的
 
-![](images/2.JPG)
+![](assets/2.JPG)
   
 
 ### 3.2 justify-content 设置主轴上的子元素排列方式
 
 | 属性值        | 说明                                              | 示例                                                         |
 | ------------- | ------------------------------------------------- | ------------------------------------------------------------ |
-| flex-start    | **默认值**。从头部开始，如果主轴是x轴，则从左到右 | ![image-20210803094319286](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803094319286.png) |
-| flex-end      | 从尾部开始排列                                    |![image-20210803094356761](移动web开发_flex布局.assets/image-20210803094356761.png) |
-| center        | 在主轴居中对齐（如果主轴是x轴则水平居中）         | ![image-20210803094510919](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803094510919.png) |
-| space-around  | 平分剩余空间                                      | ![image-20210803094616327](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803094616327.png) |
-| space-between | 先两边贴边再平分剩余空间**（重要）**              | ![image-20210803094652669](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803094652669.png) |
-| space-evenly  | 每一个元素之间完全平分剩余空间                    | ![image-20210803094710909](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803094710909.png) |
+| flex-start    | **默认值**。从头部开始，如果主轴是x轴，则从左到右 | ![image-20210803094319286](assets/image-20210803094319286.png) |
+| flex-end      | 从尾部开始排列                                    |![image-20210803094356761](assets/image-20210803094356761.png) |
+| center        | 在主轴居中对齐（如果主轴是x轴则水平居中）         | ![image-20210803094510919](assets/image-20210803094510919.png) |
+| space-around  | 平分剩余空间                                      | ![image-20210803094616327](assets/image-20210803094616327.png) |
+| space-between | 先两边贴边再平分剩余空间**（重要）**              | ![image-20210803094652669](assets/image-20210803094652669.png) |
+| space-evenly  | 每一个元素之间完全平分剩余空间                    | ![image-20210803094710909](assets/image-20210803094710909.png) |
 
 
 
@@ -75,19 +75,15 @@
 
   | 属性值     | 说明                                                         | 示例                                                         |
   | ---------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | flex-start | **默认值**。从头开始                                         | ![image-20210803102616103](移动web开发_flex布局.assets/image-20210803102616103.png) |
-  | flex-end   | 从尾部开始排列                                               | <img src="%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803102636344.png" alt="image-20210803102636344" style="zoom:33%;" /> |
-  | center     | 居中对齐                                                     | <img src="%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803102701242.png" alt="image-20210803102701242" style="zoom:33%;" /> |
-  | stretch    | 拉伸，将子元素高度拉满**（只能在没有设置高度的的情况下使用）** | <img src="%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210803102754498.png" alt="image-20210803102754498" style="zoom:33%;" /> |
+  | flex-start | **默认值**。从头开始                                         | ![image-20210803102616103](assets/image-20210803102616103.png) |
+  | flex-end   | 从尾部开始排列                                               | ![image-20210803102636344](assets/image-20210803102636344.png) |
+  | center     | 居中对齐                                                     | ![image-20210803102701242](assets/image-20210803102701242.png) |
+  | stretch    | 拉伸，将子元素高度拉满**（只能在没有设置高度的的情况下使用）** | ![image-20210803102754498](assets/image-20210803102754498.png) |
 
 ### 3.5 align-content  设置侧轴上的子元素的排列方式（多行）
 
 设置子项在侧轴上的排列方式 并且只能用于子项出现 换行（`flex-wrap: wrap;`） 的情况（多行），在单行下是没有效果的。
-
-<img src="./images/4.jpg">
-
-
-
+![](assets/4.JPG)
 ### 3.6 align-content 和align-items区别
 
 > 单行：没有换行:`flex-wrap:wrap;`的情况下，才称为单行
@@ -125,13 +121,13 @@ align-self 属性允许单个项目有与其他项目不一样的对齐方式，
 
 默认值为 auto，表示继承父元素的 align-items 属性，如果没有父元素，则等同于 stretch。
 
-````
+```css
 span:nth-child(2) {
       /* 设置自己在侧轴上的排列方式 */
       align-self: flex-end;
 }
 
-````
+```
 
 ### 4.3 order 属性定义项目的排列顺序
 
@@ -157,11 +153,11 @@ span:nth-child(2) {
 
 2.搭建相关文件夹
 
-<img src="./images/5.jpg">
+![](assets/5.JPG)
 
 3.设置视口标签以及引入初始化样式
 
-```
+```html
 <meta name="viewport" content="width=device-width, user-scalable=no,initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
 <link rel="stylesheet" href="css/normalize.css">
@@ -170,7 +166,7 @@ span:nth-child(2) {
 
 4.常用初始化样式
 
-```
+```css
 body {
   max-width: 540px;
   min-width: 320px;
@@ -186,22 +182,18 @@ body {
 
 5.模块名字划分
 
-<img src="./images/6(1).jpg">
+![](assets/6(1).jpg)
 
-![image-20210805102138123](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210805102138123.png)
+![image-20210805102138123](assets/image-20210805102138123.png)
 
-
-
-
-
-语法2：![image-20210805102724298](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210805102724298.png)
+语法2：![image-20210805102724298](assets/image-20210805102724298.png)
 
 
 
-径向渐变：![image-20210805103039500](%E7%A7%BB%E5%8A%A8web%E5%BC%80%E5%8F%91_flex%E5%B8%83%E5%B1%80.assets/image-20210805103039500.png)
+径向渐变：![image-20210805103039500](assets/image-20210805103039500.png)
 
  
 
 
 
-补充：flex可以用百分比，相对于父级来说的
+**补充：flex可以用百分比，相对于父级来说的**
