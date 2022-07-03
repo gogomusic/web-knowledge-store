@@ -20,8 +20,7 @@
 + 作为开发者无需关注这些分辨率，因为我们常用的尺寸单位是 px 。
 
 #### 1.3常见移动端屏幕尺寸
-
-<img src="./images/1.png">
+![](images/1.png)
 
 #### 1.4移动端调试方法
 
@@ -38,8 +37,7 @@
 一般移动设备的浏览器都默认设置了一个布局视口，用于解决早期的PC端页面在手机上显示的问题。
 
 iOS, Android基本都将这个视口分辨率设置为 980px，所以PC上的网页大多都能在手机上呈现，只不过元素看上去很小，一般默认可以通过手动缩放网页。
-
-<img src="./images/2.png">
+![](images/2.png)
 
 
 
@@ -49,7 +47,7 @@ iOS, Android基本都将这个视口分辨率设置为 980px，所以PC上的网
 
 我们可以通过缩放去操作视觉视口，但不会影响布局视口，布局视口仍保持原来的宽度。
 
-<img src="./images/3.png">
+![](images/3.png)
 
 #### 2.3理想视口 ideal viewport
 
@@ -66,8 +64,17 @@ meta视口标签的主要目的：布局视口的宽度应该与理想视口的�
 #### 2.4meta标签
 
 我们在做开发的时候，尽量补全所有属性
-
-<img src="./images/4.png">
+```html
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,minimum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" href="./css/normalize.css">
+  <link rel="stylesheet" href="./css/index.css">
+  <title>Document</title>
+</head>
+```
+![](images/4.png)
 
 最标准的viewport设置
 
@@ -91,7 +98,7 @@ meta视口标签的主要目的：布局视口的宽度应该与理想视口的�
 
 一个px的能显示的物理像素点的个数，称为物理像素比或屏幕像素比
 
-如果把1张100*100的图片放到手机里面会按照物理像素比给我们缩放
+如果把1张100x100的图片放到手机里面会按照物理像素比给我们缩放
 
 lRetina（视网膜屏幕）是一种显示技术，可以将把更多的物理像素点压缩至一块屏幕里，从而达到更高的分辨率，并提高屏幕显示的细腻程度。
 
@@ -137,17 +144,17 @@ background-size: 背景图片宽度 背景图片高度;
 
 京东pc端：
 
-<img src="./images/5.png">
+![](images/5.png)
 
 
 
 京东移动端：
 
-<img src="./images/6.jpg">
+![](images/6.jpg)
 
 2.响应式页面兼容移动端（其次）
 
-<img src="./images/7.jpg">
+![](images/7.jpg)
 
 响应式网站：即pc和移动端共用一套网站，只不过在不同屏幕下，样式会自动适配
 
