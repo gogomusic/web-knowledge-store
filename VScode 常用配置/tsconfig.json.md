@@ -1,0 +1,13 @@
+## 路径别名
+```json
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "/@/*": ["src/*"],
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
+  
+```
