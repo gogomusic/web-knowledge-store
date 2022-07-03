@@ -5,5 +5,9 @@
   "obsidian-mind-map",
   "emoji-shortcodes",
   "obsidian-git",
-  "obsidian-collapse-all-plugin"
+  "obsidian-collapse-all-plugin",
+  "obsidian-excalidraw-plugin",
+  "media-extended",
+  "obsidian-advanced-uri",
+  "obsidian-timestamper"
 ]
