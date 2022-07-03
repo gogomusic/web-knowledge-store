@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "移动端开发/布局/移动web开发_flex布局.md",
-            "mode": "preview",
+            "file": "移动端开发/布局/移动web开发_rem布局.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "移动端开发/布局/移动web开发_flex布局.md",
+                "file": "移动端开发/布局/移动web开发_rem布局.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "移动端开发/布局/移动web开发_flex布局.md",
+                "file": "移动端开发/布局/移动web开发_rem布局.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "移动端开发/布局/移动web开发_flex布局.md"
+                "file": "移动端开发/布局/移动web开发_rem布局.md"
               }
             }
           },
@@ -139,6 +139,8 @@
   },
   "active": "d340c3a7375933fc",
   "lastOpenFiles": [
+    "移动端开发/布局/移动web开发_rem布局.md",
+    "m.suning.com.md",
     "移动端开发/布局/移动web开发_flex布局.md",
     "CSS 样式/常用样式.md",
     "移动端开发/布局/assets/4.JPG",
@@ -146,8 +148,6 @@
     "移动端开发/布局/移动web开发_流式布局.md",
     "移动端开发/布局/assets/image-20210731153041697.png",
     "移动端开发/布局/assets/image-20210805103039500.png",
-    "移动端开发/布局/assets/1.png",
-    "移动端开发/布局/assets/image-20210731153041697-16277166468651.png",
-    "待整理/常用样式_M2105K81AC_Jun-26-2303-2022_1.md"
+    "移动端开发/布局/assets/1.png"
   ]
 }
