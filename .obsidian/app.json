@@ -8,8 +8,13 @@
   "promptDelete": false,
   "attachmentFolderPath": "./assets",
   "newLinkFormat": "relative",
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showUnsupportedFiles": true,
   "communityThemeSortOrder": "download",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
 }
