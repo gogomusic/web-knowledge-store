@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "0914ed9067a94f70",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c3db36f6b1a3055",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vue/深度作用选择器.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "476d9f92755a3387",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b95e223db084680f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "4413f3bdff518f3e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f23c5ce55dca6619",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9f2856336c3e3684",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "67bf59caae6c6081",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "50306d004a2b8d7d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Vue/深度作用选择器.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "6c27dbb1c4043724",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Vue/深度作用选择器.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5d4fbf0c57602053",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Vue/深度作用选择器.md"
+          }
+        }
+      }
+    ]
+  },
+  "active": "8c3db36f6b1a3055",
+  "lastOpenFiles": [
+    "Vue/深度作用选择器.md",
+    "待整理/前端语音合成播放简单示例（Web Speech API）.md",
+    "obsidian操作技巧.md",
+    "待整理/样式.md",
+    "text.md",
+    "README.md",
+    "《当东方Project遇上手绘：零基础学东方同人角色动态画法》.pdf",
+    "test.md",
+    "未命名/1.md",
+    "中文简体][魔法少女小圆]官方小说[上+下全本][txt&含插画doc.md"
+  ]
+}
