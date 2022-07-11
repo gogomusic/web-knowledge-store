@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vue/Vue2/Vue2组件通信.md",
+            "file": "CSS 样式/常用样式.md",
             "mode": "preview",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue/Vue2/Vue2组件通信.md"
+                "file": "CSS 样式/常用样式.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue/Vue2/Vue2组件通信.md",
+                "file": "CSS 样式/常用样式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue/Vue2/Vue2组件通信.md",
+                "file": "CSS 样式/常用样式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,6 +139,7 @@
   },
   "active": "eae0a98419e2010f",
   "lastOpenFiles": [
+    "CSS 样式/常用样式.md",
     "Vue/Vue2/Vue2组件通信.md",
     "JavaScript/JS语句和声明.md",
     "JavaScript/JavaScript标准内置对象.md",
@@ -147,7 +148,6 @@
     "工作经验/工作经验.md",
     "工作经验/Electron/netLog.md",
     "README.md",
-    "工作经验/油猴脚本/autoInputForm_WuhanOldManInfoSystem.md",
-    "工作经验/人脸识别/人脸识别.md"
+    "工作经验/油猴脚本/autoInputForm_WuhanOldManInfoSystem.md"
   ]
 }
