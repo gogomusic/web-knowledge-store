@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/git 常用命令.md",
+            "file": "CSS 样式/常用样式.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git 常用命令.md"
+                "file": "CSS 样式/常用样式.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git 常用命令.md",
+                "file": "CSS 样式/常用样式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git 常用命令.md",
+                "file": "CSS 样式/常用样式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,10 +139,10 @@
   },
   "active": "eae0a98419e2010f",
   "lastOpenFiles": [
+    "CSS 样式/常用样式.md",
     "git/git 常用命令.md",
     "git/git 教程.md",
     "git/github.md",
-    "CSS 样式/常用样式.md",
     "Vue/Vue2/Vue2组件通信.md",
     "JavaScript/JS语句和声明.md",
     "JavaScript/JavaScript标准内置对象.md",
