@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CSS 样式/常用样式.md",
+            "file": "环境变量和模式(.env).md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSS 样式/常用样式.md"
+                "file": "环境变量和模式(.env).md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSS 样式/常用样式.md",
+                "file": "环境变量和模式(.env).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSS 样式/常用样式.md",
+                "file": "环境变量和模式(.env).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
