@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212,
-    "collapsed": true
+    "width": 212
   },
   "right": {
     "id": "caa913862a3f7aed",
@@ -129,16 +128,23 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d0d94aaa6a5b1c6e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "eae0a98419e2010f",
+  "active": "d0d94aaa6a5b1c6e",
   "lastOpenFiles": [
     "JavaScript/JavaScript.md",
     "环境变量和模式(.env).md",
