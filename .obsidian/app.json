@@ -12,7 +12,7 @@
   "showUnsupportedFiles": true,
   "communityThemeSortOrder": "download",
   "defaultViewMode": "preview",
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"

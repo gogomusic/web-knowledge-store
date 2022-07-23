@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "技巧/防抖与节流.md",
+            "file": "Vue/Vue3/Provide & Inject.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技巧/防抖与节流.md"
+                "file": "Vue/Vue3/Provide & Inject.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧/防抖与节流.md",
+                "file": "Vue/Vue3/Provide & Inject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧/防抖与节流.md",
+                "file": "Vue/Vue3/Provide & Inject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,6 +146,8 @@
   },
   "active": "eae0a98419e2010f",
   "lastOpenFiles": [
+    "Vue/Vue3/Vue3.md",
+    "技巧/防抖与节流.md",
     "技巧/快速找到哪个元素产生的滚动.md",
     "未命名.md",
     "待整理/关键词高亮.md",
@@ -153,8 +155,6 @@
     "Vue/深度作用选择器.md",
     "Vue/Vue2/Vue2组件通信.md",
     "Vue/Vue2/$nextTick.md",
-    "待整理/功能函数.md",
-    "JavaScript/JavaScript.md",
-    "环境变量和模式(.env).md"
+    "待整理/功能函数.md"
   ]
 }
