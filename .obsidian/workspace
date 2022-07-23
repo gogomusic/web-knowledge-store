@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "待整理/关键词高亮.md",
+            "file": "技巧/防抖与节流.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待整理/关键词高亮.md"
+                "file": "技巧/防抖与节流.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待整理/关键词高亮.md",
+                "file": "技巧/防抖与节流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待整理/关键词高亮.md",
+                "file": "技巧/防抖与节流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,15 +146,15 @@
   },
   "active": "eae0a98419e2010f",
   "lastOpenFiles": [
+    "技巧/快速找到哪个元素产生的滚动.md",
+    "未命名.md",
+    "待整理/关键词高亮.md",
     "待整理/图片自适应容器.md",
     "Vue/深度作用选择器.md",
     "Vue/Vue2/Vue2组件通信.md",
     "Vue/Vue2/$nextTick.md",
     "待整理/功能函数.md",
     "JavaScript/JavaScript.md",
-    "环境变量和模式(.env).md",
-    "CSS 样式/常用样式.md",
-    "git/git 常用命令.md",
-    "git/git 教程.md"
+    "环境变量和模式(.env).md"
   ]
 }
