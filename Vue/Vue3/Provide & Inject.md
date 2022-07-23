@@ -68,3 +68,49 @@ export default defineComponent({
 })
 </script>
 ```
+
+## 示例3：使用readonly，使子组件无法直接修改父组件数据（即使是对象下的属性，也不能直接修改），但是可以由父组件provide一个方法以供子组件修改
+
+***father.vue***
+```vue
+<script lang="ts">
+import { defineComponent, provide, ref, readonly } from 'vue'
+import Son from './Son.vue'
+
+export default defineComponent({
+  components: { Son },
+  setup() {
+    const reactivityReadonlyData = ref({ name: '张三' })
+    provide('reactivityReadonlyData', readonly(reactivityReadonlyData)) //使用readonly，提供响应性的数据,该值可以不可以直接被子组件修改。但是可以再提供一个方法专门用于修改数据
+    const changeReactivityReadonlyData = (val: string) => {
+      reactivityReadonlyData.value.name = val
+    }
+    provide('changeReactivityReadonlyData', changeReactivityReadonlyData)
+  },
+})
+</script>
+```
+
+***son.vue***
+```vue
+<script lang="ts">
+import { defineComponent, inject } from 'vue'
+export default defineComponent({
+  setup() {
+    const reactivityReadonlyData = inject('reactivityReadonlyData')
+    const changeReactivityReadonlyData = inject('changeReactivityReadonlyData')
+    return {
+      reactivityReadonlyData,
+      changeReactivityReadonlyData,
+    }
+  },
+})
+</script>
+<template>
+  <div>子组件{{ reactivityReadonlyData.name }}</div>
+  <button @click="changeReactivityReadonlyData('李四')">点击修改</button>
+</template>
+```
+
+## 示例4：推荐用法（安全，无报错）。最好给inject提供默认值
+
