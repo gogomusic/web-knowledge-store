@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "待整理/功能函数.md",
+            "file": "待整理/关键词高亮.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "待整理/功能函数.md"
+                "file": "待整理/关键词高亮.md"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "待整理/功能函数.md",
+                "file": "待整理/关键词高亮.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "待整理/功能函数.md",
+                "file": "待整理/关键词高亮.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,17 +144,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d0d94aaa6a5b1c6e",
+  "active": "eae0a98419e2010f",
   "lastOpenFiles": [
+    "待整理/图片自适应容器.md",
+    "Vue/深度作用选择器.md",
+    "Vue/Vue2/Vue2组件通信.md",
+    "Vue/Vue2/$nextTick.md",
+    "待整理/功能函数.md",
     "JavaScript/JavaScript.md",
     "环境变量和模式(.env).md",
     "CSS 样式/常用样式.md",
     "git/git 常用命令.md",
-    "git/git 教程.md",
-    "git/github.md",
-    "Vue/Vue2/Vue2组件通信.md",
-    "JavaScript/JS语句和声明.md",
-    "JavaScript/JavaScript标准内置对象.md",
-    "移动端开发/布局/移动web开发_flex布局.md"
+    "git/git 教程.md"
   ]
 }
