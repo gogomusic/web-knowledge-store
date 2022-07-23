@@ -2,47 +2,69 @@
 
 作用：在深度嵌套的组件中，将 prop 沿着组件链逐级传递会很麻烦。使用 Provide/Inject可以直接将父组件的数据传递给子孙组件
 
-示例：
+## 示例1：提供静态数据并提供默认值
 ***father.vue***
-```
-<template>
-  <son />
-</template>
+```vue
+<script lang="ts">
+import { defineComponent, provide } from 'vue'
+import Son from './Son.vue'
 
-<script>
-import { provide } from 'vue'
-import son from './son.vue'
-
-export default {
-  components: {
-    MyMarker
-  },
+export default defineComponent({
+  components: { Son },
   setup() {
-    provide('location', 'North Pole')
-    provide('geolocation', {
-      longitude: 90,
-      latitude: 135
-    })
-  }
-}
+    //provide 函数允许你通过两个参数定义 property：name (<String> 类型)和 value
+    provide('staticData', 'static') //提供无响应性的数据,该值不可以被子组件修改
+  },
+})
 </script>
 ```
 
 ***son.vue***
-```
-<script>
-import { inject } from 'vue'
-
-export default {
+```vue
+<script lang="ts">
+import { defineComponent, inject } from 'vue'
+export default defineComponent({
   setup() {
-    const userLocation = inject('location', 'The Universe')
-    const userGeolocation = inject('geolocation')
+    //inject(name,default) 函数有两个参数：要inject 的 property 的 name和默认值 (可选)
+    const staticData = inject('staticData','defaultValue')
 
     return {
-      userLocation,
-      userGeolocation
+      staticData,
     }
-  }
-}
+  },
+})
+</script>
+```
+
+## 示例2：直接提供响应式数据（不安全）
+
+***father.vue***
+```vue
+<script lang="ts">
+import { defineComponent, provide, ref } from 'vue'
+import Son from './Son.vue'
+
+export default defineComponent({
+  components: { Son },
+  setup() {
+    const reactivityData = ref('响应式数据')//ref或者reactive都可以
+    provide('reactivityData', reactivityData) //提供响应性的数据,该值可以被子组件修改。
+  },
+})
+</script>
+```
+
+***son.vue***
+```vue
+<script lang="ts">
+import { defineComponent, inject } from 'vue'
+export default defineComponent({
+  setup() {
+    const reactivityData = inject('reactivityData')
+    return {
+      reactivityData,
+    }
+  },
+})
 </script>
 ```
