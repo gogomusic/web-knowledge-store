@@ -3,7 +3,7 @@
   "livePreview": true,
   "readableLineLength": false,
   "showFrontmatter": true,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "useMarkdownLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "./assets",
@@ -12,7 +12,7 @@
   "showUnsupportedFiles": true,
   "communityThemeSortOrder": "download",
   "defaultViewMode": "preview",
-  "spellcheck": true,
+  "spellcheck": false,
   "spellcheckLanguages": [
     "zh-CN",
     "en-US"

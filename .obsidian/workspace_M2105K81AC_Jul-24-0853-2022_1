@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "环境变量和模式(.env).md",
-            "mode": "preview",
+            "file": "Vue/Vue3/Provide & Inject.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,15 +19,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "17287c64c6233b32",
+    "id": "a895ac4bbf30a1cf",
     "type": "split",
     "children": [
       {
-        "id": "69aa6b11ec85f946",
+        "id": "4fdeefe23acb9f49",
         "type": "tabs",
+        "dimension": 59.60410557184751,
         "children": [
           {
-            "id": "72f5f10030c49b2a",
+            "id": "53fdd01550068b0f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +36,7 @@
             }
           },
           {
-            "id": "ffe2b89975664c6d",
+            "id": "ff9eeab27d2e42de",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +51,7 @@
             }
           },
           {
-            "id": "06f346d26b6469a4",
+            "id": "56fc08c444bba127",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -58,26 +59,43 @@
             }
           }
         ]
+      },
+      {
+        "id": "35d39c14d820c2de",
+        "type": "tabs",
+        "dimension": 40.39589442815249,
+        "children": [
+          {
+            "id": "9344fcee8c0eeccf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vue/Vue3/Provide & Inject.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279
   },
   "right": {
-    "id": "ddbf8d550db87020",
+    "id": "caa913862a3f7aed",
     "type": "split",
     "children": [
       {
-        "id": "9af90d27f977511b",
+        "id": "3ed2e9427ee16b00",
         "type": "tabs",
         "children": [
           {
-            "id": "d3e0e21b2cfa0cb3",
+            "id": "e2d0962eb29ce5f8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "环境变量和模式(.env).md",
+                "file": "Vue/Vue3/Provide & Inject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +107,19 @@
             }
           },
           {
-            "id": "236a4553b06d3fe8",
+            "id": "b8b4207227519dc2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "环境变量和模式(.env).md",
+                "file": "Vue/Vue3/Provide & Inject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8129e9f6af142372",
+            "id": "5e81a729e23fd16e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,16 +130,15 @@
             }
           },
           {
-            "id": "d467d44ea9d2c4ad",
+            "id": "d0d94aaa6a5b1c6e",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "环境变量和模式(.env).md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -130,15 +147,15 @@
   },
   "active": "eae0a98419e2010f",
   "lastOpenFiles": [
-    "环境变量和模式(.env).md",
     "Vue/Vue3/Vue3.md",
-    "CSS 样式/常用样式.md",
-    "git/git 常用命令.md",
-    "git/git 教程.md",
-    "git/github.md",
+    "技巧/防抖与节流.md",
+    "技巧/快速找到哪个元素产生的滚动.md",
+    "未命名.md",
+    "待整理/关键词高亮.md",
+    "待整理/图片自适应容器.md",
+    "Vue/深度作用选择器.md",
     "Vue/Vue2/Vue2组件通信.md",
-    "JavaScript/JS语句和声明.md",
-    "JavaScript/JavaScript标准内置对象.md",
-    "移动端开发/布局/移动web开发_flex布局.md"
+    "Vue/Vue2/$nextTick.md",
+    "待整理/功能函数.md"
   ]
 }

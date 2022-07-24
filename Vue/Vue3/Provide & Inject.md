@@ -114,3 +114,76 @@ export default defineComponent({
 
 ## 示例4：推荐用法（安全，无报错）。最好给inject提供默认值
 
+***father.vue***
+```vue
+<script lang="ts">
+import { defineComponent, provide, Ref, ref, readonly, InjectionKey } from 'vue'
+import Son from './Son.vue'
+
+// 用户信息
+export type UserInfoType = Ref<{
+  userName: string
+  userId: number
+}>
+
+//修改用户名
+export type ChangeUserNameType = (val: string) => void
+
+//Vue 提供了一个 InjectionKey 接口，该接口是扩展了 Symbol 的泛型类型。它可用于在生产者和消费者之间同步 inject 值的类型：
+export const UserInfoKey: InjectionKey<UserInfoType> = Symbol()
+export const ChangeUserNameKey: InjectionKey<ChangeUserNameType> = Symbol()
+
+export default defineComponent({
+  components: { Son },
+  setup() {
+    const userInfo = ref({
+      userName: '静夜聆雨',
+      userId: 999,
+    })
+    const changeUserName = (val: string) => {
+      userInfo.value.userName = val
+    }
+    provide<UserInfoType>(UserInfoKey, readonly(userInfo))
+    provide<ChangeUserNameType>(ChangeUserNameKey, changeUserName)
+  },
+})
+</script>
+
+<template>
+  父组件
+  <Son></Son>
+</template>
+```
+
+***son.vue***
+```vue
+<script lang="ts">
+import { defineComponent, inject, ref } from 'vue'
+import { UserInfoKey, ChangeUserNameKey } from './Father.vue'
+
+export default defineComponent({
+  setup() {
+    const userinfo = inject(
+      UserInfoKey,
+      ref({
+        userName: '',
+        userId: NaN,
+      })
+    )
+    const changeUserName = inject(ChangeUserNameKey, () => {
+      console.log('无法修改父组件的值')
+    })
+
+    return {
+      userinfo,
+      changeUserName,
+    }
+  },
+})
+</script>
+
+<template>
+  子组件{{ userinfo.userName }}
+  <button @click="changeUserName('李四')">点击修改父组件</button>
+</template>
+```
